@@ -28,3 +28,12 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+Red-Dwarf/Library/CurrentLayout\.dwlt
+
+Red-Dwarf/Library/
+
+Red-Dwarf/Temp/
+
+Red-Dwarf/Builds/
+Red-Dwarf/ProjectSettings/ProjectSettings.asset
