@@ -1,0 +1,255 @@
+fileFormatVersion: 2
+guid: 39dcce041446b91478b5434af0a1cba9
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: BezierCircle
+    100004: BezierCurve
+    100006: BezierCurve_001
+    100008: BezierCurve_002
+    100010: BezierCurve_003
+    100012: BezierCurve_004
+    100014: BezierCurve_005
+    100016: BezierCurve_006
+    100018: BezierCurve_007
+    100020: BezierCurve_008
+    100022: BezierCurve_009
+    100024: BezierCurve_010
+    100026: BezierCurve_011
+    100028: BezierCurve_012
+    100030: BezierCurve_013
+    100032: BezierCurve_014
+    100034: BezierCurve_015
+    100036: BezierCurve_016
+    100038: BezierCurve_017
+    100040: BezierCurve_018
+    100042: BezierCurve_019
+    100044: BezierCurve_020
+    100046: BezierCurve_021
+    100048: BezierCurve_022
+    100050: BezierCurve_023
+    100052: BezierCurve_024
+    100054: BezierCurve_025
+    100056: BezierCurve_026
+    100058: Cube
+    100060: Cube_MeshPart0
+    100062: Cube_MeshPart1
+    400000: //RootNode
+    400002: BezierCircle
+    400004: BezierCurve
+    400006: BezierCurve_001
+    400008: BezierCurve_002
+    400010: BezierCurve_003
+    400012: BezierCurve_004
+    400014: BezierCurve_005
+    400016: BezierCurve_006
+    400018: BezierCurve_007
+    400020: BezierCurve_008
+    400022: BezierCurve_009
+    400024: BezierCurve_010
+    400026: BezierCurve_011
+    400028: BezierCurve_012
+    400030: BezierCurve_013
+    400032: BezierCurve_014
+    400034: BezierCurve_015
+    400036: BezierCurve_016
+    400038: BezierCurve_017
+    400040: BezierCurve_018
+    400042: BezierCurve_019
+    400044: BezierCurve_020
+    400046: BezierCurve_021
+    400048: BezierCurve_022
+    400050: BezierCurve_023
+    400052: BezierCurve_024
+    400054: BezierCurve_025
+    400056: BezierCurve_026
+    400058: Cube
+    400060: Cube_MeshPart0
+    400062: Cube_MeshPart1
+    2300000: BezierCircle
+    2300002: BezierCurve
+    2300004: BezierCurve_001
+    2300006: BezierCurve_002
+    2300008: BezierCurve_003
+    2300010: BezierCurve_004
+    2300012: BezierCurve_005
+    2300014: BezierCurve_006
+    2300016: BezierCurve_007
+    2300018: BezierCurve_008
+    2300020: BezierCurve_009
+    2300022: BezierCurve_010
+    2300024: BezierCurve_011
+    2300026: BezierCurve_012
+    2300028: BezierCurve_013
+    2300030: BezierCurve_014
+    2300032: BezierCurve_015
+    2300034: BezierCurve_016
+    2300036: BezierCurve_017
+    2300038: BezierCurve_018
+    2300040: BezierCurve_019
+    2300042: BezierCurve_020
+    2300044: BezierCurve_021
+    2300046: BezierCurve_022
+    2300048: BezierCurve_023
+    2300050: BezierCurve_024
+    2300052: BezierCurve_025
+    2300054: BezierCurve_026
+    2300056: Cube_MeshPart0
+    2300058: Cube_MeshPart1
+    3300000: BezierCircle
+    3300002: BezierCurve
+    3300004: BezierCurve_001
+    3300006: BezierCurve_002
+    3300008: BezierCurve_003
+    3300010: BezierCurve_004
+    3300012: BezierCurve_005
+    3300014: BezierCurve_006
+    3300016: BezierCurve_007
+    3300018: BezierCurve_008
+    3300020: BezierCurve_009
+    3300022: BezierCurve_010
+    3300024: BezierCurve_011
+    3300026: BezierCurve_012
+    3300028: BezierCurve_013
+    3300030: BezierCurve_014
+    3300032: BezierCurve_015
+    3300034: BezierCurve_016
+    3300036: BezierCurve_017
+    3300038: BezierCurve_018
+    3300040: BezierCurve_019
+    3300042: BezierCurve_020
+    3300044: BezierCurve_021
+    3300046: BezierCurve_022
+    3300048: BezierCurve_023
+    3300050: BezierCurve_024
+    3300052: BezierCurve_025
+    3300054: BezierCurve_026
+    3300056: Cube_MeshPart0
+    3300058: Cube_MeshPart1
+    4300000: BezierCurve_001
+    4300002: BezierCircle
+    4300004: BezierCurve_026
+    4300006: BezierCurve_022
+    4300008: BezierCurve_025
+    4300010: BezierCurve_023
+    4300012: BezierCurve_024
+    4300014: BezierCurve_021
+    4300016: BezierCurve_020
+    4300018: BezierCurve_019
+    4300020: BezierCurve_018
+    4300022: BezierCurve_017
+    4300024: BezierCurve_016
+    4300026: BezierCurve_015
+    4300028: BezierCurve_014
+    4300030: BezierCurve_013
+    4300032: BezierCurve_012
+    4300034: BezierCurve_011
+    4300036: BezierCurve_010
+    4300038: BezierCurve_009
+    4300040: BezierCurve_008
+    4300042: BezierCurve_007
+    4300044: BezierCurve_006
+    4300046: BezierCurve_005
+    4300048: BezierCurve_004
+    4300050: BezierCurve_003
+    4300052: BezierCurve_002
+    4300054: BezierCurve
+    4300056: Cube_MeshPart0
+    4300058: Cube_MeshPart1
+    7400000: Default Take
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: 995e164d0acf45043b3421b5f2d0dadc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: unnamed
+    second: {fileID: 2100000, guid: aaf58a35aad261548bf859a62d4fde90, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

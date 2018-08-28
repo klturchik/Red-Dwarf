@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: 5377f3f8f087ad740bb6742b6715adb1
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: FlightStick
+    100004: FloorPanel
+    100006: RaderDisplay
+    100008: SeatFrame
+    100010: Throttle_base
+    100012: Throttle_left
+    100014: Throttle_right
+    100016: Trigger
+    100018: VelocityPanel
+    100020: FrontGlass
+    100022: SideGlass
+    100024: TopGlass
+    100026: CockpitBack
+    100028: RearFrame
+    400000: //RootNode
+    400002: FlightStick
+    400004: FloorPanel
+    400006: RaderDisplay
+    400008: SeatFrame
+    400010: Throttle_base
+    400012: Throttle_left
+    400014: Throttle_right
+    400016: Trigger
+    400018: VelocityPanel
+    400020: FrontGlass
+    400022: SideGlass
+    400024: TopGlass
+    400026: CockpitBack
+    400028: RearFrame
+    2300000: FlightStick
+    2300002: FloorPanel
+    2300004: RaderDisplay
+    2300006: SeatFrame
+    2300008: Throttle_base
+    2300010: Throttle_left
+    2300012: Throttle_right
+    2300014: Trigger
+    2300016: VelocityPanel
+    2300018: FrontGlass
+    2300020: SideGlass
+    2300022: TopGlass
+    2300024: CockpitBack
+    2300026: RearFrame
+    3300000: FlightStick
+    3300002: FloorPanel
+    3300004: RaderDisplay
+    3300006: SeatFrame
+    3300008: Throttle_base
+    3300010: Throttle_left
+    3300012: Throttle_right
+    3300014: Trigger
+    3300016: VelocityPanel
+    3300018: FrontGlass
+    3300020: SideGlass
+    3300022: TopGlass
+    3300024: CockpitBack
+    3300026: RearFrame
+    4300000: SeatFrame
+    4300002: FloorPanel
+    4300004: FlightStick
+    4300006: RaderDisplay
+    4300008: Trigger
+    4300010: Throttle_base
+    4300012: Throttle_right
+    4300014: Throttle_left
+    4300016: VelocityPanel
+    4300018: TopGlass
+    4300020: SideGlass
+    4300022: FrontGlass
+    4300024: CockpitBack
+    4300026: RearFrame
+    7400000: Default Take
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: unnamed
+    second: {fileID: 2100000, guid: aaf58a35aad261548bf859a62d4fde90, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
