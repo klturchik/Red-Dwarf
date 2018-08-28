@@ -1,3 +1,4 @@
 # Red-Dwarf
-Gameplay Manual:
-https://kturchik.github.io/files/Red_Dwarf_Gameplay_Manual.pdf
+Unity Version: 2018.2.5 <br />
+Gameplay Manual: https://github.com/kturchik/Red-Dwarf/blob/master/Red_Dwarf_Gameplay_Manual.pdf
+
