@@ -1,2 +1,3 @@
 # Red-Dwarf
-CS470 - Project 3
+Gameplay Manual:
+https://kturchik.github.io/files/Red_Dwarf_Gameplay_Manual.pdf
